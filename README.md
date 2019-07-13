@@ -2,7 +2,7 @@
 Demo of how clustering with elixir works
 
 # Setup
-Create 3+ panes in your terminal, each will host an `iex` (interactive elixir) shell that executes a BEAM-VM (or cluster node).
+Create 3+ panes in your terminal, each will host an `iex` (interactive elixir) shell that executes a BEAM-VM (a cluster node).
 
 Start each `iex` with: `iex --sname #{node_name} --cookie duck`
 
